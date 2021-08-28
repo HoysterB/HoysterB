@@ -2,9 +2,9 @@
 
 ######  Full Stack Developer in .NET plataform and coffe lover.
 
-<h3 align="left">Contact me:</h3>
+<h6 align="left">Contact me:</h6>
 <p align="left">
-<a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="20" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
